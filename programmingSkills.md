@@ -1,2 +1,0 @@
-[TOC]
-#Table-Driven Method
